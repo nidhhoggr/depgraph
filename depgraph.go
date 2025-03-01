@@ -4,7 +4,7 @@ import (
 	"errors"
 )
 
-const Version string = "0.0.1"
+const Version string = "0.0.2"
 
 // A node in this graph is just a string, so a nodeset is a map whose
 // keys are the nodes that are present.
