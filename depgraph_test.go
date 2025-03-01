@@ -3,7 +3,7 @@ package depgraph_test
 import (
 	"testing"
 
-	"github.com/joe-at-startupmedia/depgraph"
+	"github.com/nidhhoggr/depgraph"
 	"github.com/stretchr/testify/assert"
 )
 

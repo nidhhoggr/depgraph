@@ -1,4 +1,4 @@
-module github.com/joe-at-startupmedia/depgraph
+module github.com/nidhhoggr/depgraph
 
 go 1.21
 
